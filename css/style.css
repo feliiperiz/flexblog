@@ -1,0 +1,15 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 30px;
+  min-height: 200px;
+  
+}
+
+.item {
+  background-color: tomato;
+}
